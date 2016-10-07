@@ -1,0 +1,10 @@
+[package]
+name = "wargame"
+version = "0.1.0"
+authors = ["Peter Kurlak <pkurlak@gmail.com>"]
+
+[dependencies]
+glutin = "*"
+gfx_core = "*"
+gfx_window_glutin = "*"
+
